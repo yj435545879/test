@@ -104,3 +104,10 @@ class Character:
         italic = '/' if self.italic else ''
         underline = '_' if self.underline else ''
         return bold+italic+underline+self.character
+
+
+
+
+
+
+print('===============')
